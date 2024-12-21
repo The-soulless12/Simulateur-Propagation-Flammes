@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1730674819 source:c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	<windows.h>
+	"constantes.h"
+	"sequentiel.h"
+	"sequentiel.c"
+	"parallele.h"
+	"parallele.c"
+
+1730688840 c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\constantes.h
+
+1730673274 c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\sequentiel.h
+	"constantes.h"
+
+1730679919 c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\sequentiel.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"sequentiel.h"
+	"constantes.h"
+
+1730683462 c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\parallele.h
+	"constantes.h"
+
+1730680019 c:\users\admin\documents\rayane dossier etudes\hpc\tp1 hpc akli rayane sid\parallele.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+	"parallele.h"
+	"constantes.h"
+	"sequentiel.h"
+
